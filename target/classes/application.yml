@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+
+java:
+  runime:
+    version: '17'
+
+springdoc:
+  api_docs:
+    path: /api-docs
